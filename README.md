@@ -7,6 +7,7 @@ ask for help or questions or suggestions or idfk on #dusts-mod channel on twin e
 - download the version for your os:
   - windows: https://github.com/dustdustinthewind/TwinEdgeQoLMod/raw/main/Windows/Assembly-CSharp.dll
   - mac: https://github.com/dustdustinthewind/TwinEdgeQoLMod/raw/main/Mac/Assembly-CSharp.dll
+  - (i can make a linux version if needed)
 - right click twin edge in steam > click on "managed" > "browse local game files"
 - for windows:
   - open "TwinEdge_Data" then open "Managed"
